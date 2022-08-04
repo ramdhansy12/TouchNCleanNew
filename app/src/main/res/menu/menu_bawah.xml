@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/menu_promo"
+        android:icon="@drawable/icdiscount"
+        android:title="Promo"
+        />
+    <item
+        android:id="@+id/menu_riwayat"
+        android:icon="@drawable/iconriwayat"
+        android:title="Riwayat"
+        />
+    <item
+        android:id="@+id/menu_akun"
+        android:icon="@drawable/ic_akun"
+        android:title="Akun"
+        />
+
+</menu>
